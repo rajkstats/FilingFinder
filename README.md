@@ -38,6 +38,16 @@ To use FilingFinder, launch the application and input your queries related to Me
 Explore FilingFinder in action through our interactive chatbot hosted on Hugging Face:
 [Hugging Face App - FilingFinder](https://huggingface.co/spaces/yourusername/filingfinder)
 
+## Home Screen of the App
+
+Here's an overview of feature 1.
+
+![Home Screen](https://i.imgur.com/4CqgBud.png)
+
+## Feature
+
+![Feature](https://i.imgur.com/7gT7X4a.png)
+
 ## Contributing
 
 We welcome contributions to improve FilingFinder. Please follow the standard fork-branch-PR workflow to propose changes.
