@@ -1,0 +1,13 @@
+chainlit==0.7.700
+openai==1.25.0
+tiktoken
+python-dotenv==1.0.0
+qdrant-client
+pymupdf
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.46
+langchain-openai==0.1.4
+langchain-text-splitters==0.0.1
+langchainhub==0.1.15
+langsmith==0.1.51
