@@ -36,7 +36,7 @@ To use FilingFinder, launch the application and input your queries related to Me
 ## Online Demo
 
 Explore FilingFinder in action through our interactive chatbot hosted on Hugging Face:
-[Hugging Face App - FilingFinder](https://huggingface.co/spaces/yourusername/filingfinder)
+[Hugging Face App - FilingFinder](https://huggingface.co/spaces/rajkstats/FilingFinder)
 
 ## Home Screen of the App
 
