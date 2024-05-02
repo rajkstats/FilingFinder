@@ -33,7 +33,7 @@ async def start_chat():
     # Configure a text splitter that handles large documents
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size = 1000,
-        chunk_overlap = 0,  # Ensure there is no cutoff at the edges of chunks
+        chunk_overlap = 200,  # Ensure there is no cutoff at the edges of chunks
         length_function = tiktoken_len,
     )
 
